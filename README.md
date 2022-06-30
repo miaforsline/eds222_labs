@@ -1,4 +1,4 @@
-# EDS 222: Statistics for Environmental Data Science (Winter Quarter 2021) 
+# EDS 222: Statistics for Environmental Data Science (Fall Quarter 2021) 
 ## Instructor: Dr. Tamma Carleton 
 ## [Course website](https://tcarleton.github.io/EDS-222-stats/)
 
